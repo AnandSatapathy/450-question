@@ -1,0 +1,1 @@
+{"name":"Local: dijskstraAgo","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\450 question\\Graph\\dijskstraAgo.cpp","tests":[{"id":1646466656799,"input":"3 2 \n1 2 2\n1 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\450 question\\Graph\\dijskstraAgo.cpp","group":"local","local":true}
